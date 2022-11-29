@@ -43,7 +43,7 @@ void RivetCalculator::on_pushButton_clicked()
     ui->label_zca->setText("10 degree");
     ui->label_bcca->setText("10 degree");
     ui->label_bzca->setText("10 degree");
-
+    //hello
 
 
 
